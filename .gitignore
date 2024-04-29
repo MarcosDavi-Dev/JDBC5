@@ -1,3 +1,15 @@
+# Ignorar pasta settings
+.settings/
+
+# Ignorar pasta bin
+.bin/
+
+# Ignorar classpath file
+.classpath
+
+# Ignorar project file
+.project
+
 # Compiled class file
 *.class
 
